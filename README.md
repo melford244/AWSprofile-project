@@ -3,9 +3,7 @@
 
 ## **Architecture Diagram**
 
-```
-![image alt](https://github.com/melford244/AWSprofile-project/blob/0af0cc72f8407de6495e6aeb634865b917225379/AWS%20CLOUD.io%20DIAGRAM.drawio.png)
-```
+![Image Alt](https://github.com/melford244/AWSprofile-project/blob/0af0cc72f8407de6495e6aeb634865b917225379/AWS%20CLOUD.io%20DIAGRAM.drawio.png)
 
 ## **Objectives**
 1. **Flexible Infrastructure:**
