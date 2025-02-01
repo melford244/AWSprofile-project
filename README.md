@@ -1,4 +1,7 @@
-# Project Name
+# Infrastructure as Code (IaC) for Web Application Deployment on AWS
+This project demonstrates deploying a scalable and modern web application on Amazon Web Services (AWS) using a fully automated approach. The architecture leverages key AWS services such as EC2 instances, Elastic Load Balancer (ELB), Auto Scaling, S3 bucket for shared storage, Amazon Certificate Manager (ACM), and Route 53 for DNS management. The deployment process is automated using Infrastructure as Code (IaC) principles, ensuring flexibility, cost-effectiveness, and scalability.
+
+The project follows a step-by-step workflow, startng from setting up the infrastructure (key pairs, security groups, and EC2 instances) to deploying the application artifact from an S3 bucket to Tomcat servers. It also includes configuring HTTPS for secure communication, mapping the application to a custom domain using Route 53, and ensuring high availability through Auto Scaling. This project is ideal for organizations looking to modernize their application deployment process while minimizing upfront costs and maximizing scalability.
 
 
 ## **Architecture Diagram**
